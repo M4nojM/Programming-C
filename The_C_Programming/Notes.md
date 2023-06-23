@@ -1,19 +1,12 @@
-//11:20
-<br>\n<\br>
-
 # 1) Introduction
 
 ## Escape Sequences:
 
-\n - Newline \n
-\t - Tab
-
-\b - Backspace
-
-\" - Double quote
-
-\\ - Backslash
-
+\n - Newline <br>
+\t - Tab <br>
+\b - Backspace <br>
+\" - Double quote <br>
+\\ - Backslash <br>
 
 1.2) Variables and Arithmetics Expressions
 
