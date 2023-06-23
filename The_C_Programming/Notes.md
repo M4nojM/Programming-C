@@ -21,11 +21,11 @@
 list of variable name.
 
 ### Data types:
-1) Primary
+1) Primitive
 2) Derived
 3) User Defined
 
-#### Primary
+#### Primitive:
 1) int
 2) float
 3) char
