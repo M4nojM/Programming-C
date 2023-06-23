@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//remember ctrl + d
+
 int main()
 {
   int c,b,tb,nl;
