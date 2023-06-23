@@ -20,12 +20,12 @@
 * A variable declartion announces the properties of variables such as data type name followed by variable name or
 list of variable name.
 
-### Data types:
+#### Data types:
 1)Primary
 2)Derived
 3)User Defined
 
-### Primary
+##### Primary
 1) int
 2) float
 3) char
@@ -33,14 +33,14 @@ list of variable name.
 5) long
 6) double
 
-### int (integer)
+###### int (integer)
 * size of these objects are machine dependent 
 
-#### int(16-bit System):
+###### int(16-bit System):
 range: -32769 to +32767
 size: 2 bytes
 
-#### int(32-bit System):
+###### int(32-bit System):
 range: -- to -- 
 size: 4 bytes
 
