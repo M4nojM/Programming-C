@@ -36,13 +36,9 @@ list of variable name.
 #### Integer(int)
 * size of these objects are machine dependent 
 
-* #### int(16-bit System):
-range: -32769 to +32767
-size: 2 bytes
+* #### int(16-bit System): <br> range: -32769 to +32767 <br> size: 2 bytes
 
-* #### int(32-bit System):
-range: -- to -- 
-size: 4 bytes
+* #### int(32-bit System): <br> range: -- to -- <br> size: 4 bytes
 
 
 
