@@ -1,6 +1,6 @@
 # 1) Introduction
 
-## Escape Sequences:
+### Escape Sequences:
 
 \n - Newline <br>
 \t - Tab <br>
@@ -8,19 +8,19 @@
 \" - Double quote <br>
 \\ - Backslash <br>
 
-1.2) Variables and Arithmetics Expressions
+## 1.2)Variables and Arithmetics Expressions
 
-Comments:
+### Comments:
 /* Any characters between these are ignored by c compiler */
 
-Variables:
+### Variables:
 
-> All variables must be declared before use
+* All variables must be declared before use
 
-> A variable declartion announces the properties of variables such as data type name followed by variable name or
+* A variable declartion announces the properties of variables such as data type name followed by variable name or
 list of variable name.
 
-Inbuit-Data type:
+### Inbuit-Data type:
 1) int
 2) float
 3) char
@@ -28,13 +28,13 @@ Inbuit-Data type:
 5) long
 6) double
 
-> size of these objects are machine dependent 
+* size of these objects are machine dependent 
 
-int(16-bit System):
+### int(16-bit System):
 range: -32769 to +32767
 size: 2 bytes
 
-int(32-bit System):
+### int(32-bit System):
 range: -- to -- 
 size: 4 bytes
 
