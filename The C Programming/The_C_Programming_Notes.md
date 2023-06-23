@@ -24,7 +24,7 @@ Variables:
 
 > All variables must be declared before use
 
-> A variable declartion announces the properties of variables such as data type name followed by variable name or
+> A variable declartion announces the properties of variables such as data type name followedby variable name or
 list of variable name.
 
 Inbuit-Data type:
@@ -45,7 +45,9 @@ int(32-bit System):
 range: -- to -- 
 size: 4 bytes
 
+hello, world dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
+grehj<br>hgjgjjjjll
 
 
 
