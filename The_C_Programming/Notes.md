@@ -40,9 +40,12 @@ list of variable name.
 
 * #### int(32-bit System): <br> range: -- to -- <br> size: 4 bytes
 
-| Data Type | System | Size | 
-| Integer   | 32-bit | 2 bytes |
-
+| Item              | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Python Hat        |   True   | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
 
 
 
