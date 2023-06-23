@@ -5,8 +5,8 @@
 \n - Newline <br>
 \t - Tab <br>
 \b - Backspace <br>
-\" - Double quote <br>
-\\ - Backslash <br>
+\\" - Double quote <br>
+\\\ - Backslash <br>
 
 ## 1.2)Variables and Arithmetics Expressions
 
@@ -33,14 +33,14 @@ list of variable name.
 5) long
 6) double
 
-##### int (integer)
+#### Integer(int)
 * size of these objects are machine dependent 
 
-##### int(16-bit System):
+* #### int(16-bit System):
 range: -32769 to +32767
 size: 2 bytes
 
-##### int(32-bit System):
+* #### int(32-bit System):
 range: -- to -- 
 size: 4 bytes
 
