@@ -27,22 +27,26 @@ list of variable name.
 3) User Defined
 
 #### Primitive Data Types:
-1) int
-2) float
-3) char
-4) short
-5) long
-6) double
 
-| Data Type     | Size (in bytes) | Range                                                  |
-| ------------- | --------------- | ------------------------------------------------------ |
-| int (16-bit)  | 2               | -32,768 to 32,767                                      |
-| int (32-bit)  | 4               | -2,147,483,648 to 2,147,483,647                        |
-| float         | 4               | 3.4e-38 to 3.4e+38 (6 decimal places precision)         |
-| double        | 8               | 1.7e-308 to 1.7e+308 (15 decimal places precision)      |
-| char          | 1               | -128 to 127 or 0 to 255 (depending on signed or unsigned) |
-| short         | 2               | -32,768 to 32,767                                      |
-| long          | 8               | -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 |
+| Data Type         | Size (in bytes) | Range                                                          |
+| ----------------- | --------------- | -------------------------------------------------------------- |
+| char              | 1               | -128 to 127 or 0 to 255 (depending on signed or unsigned)       |
+| signed char       | 1               | -128 to 127                                                   |
+| unsigned char     | 1               | 0 to 255                                                       |
+| short             | 2               | -32,768 to 32,767                                              |
+| unsigned short    | 2               | 0 to 65,535                                                    |
+| int (16-bit)      | 2               | -32,768 to 32,767                                              |
+| unsigned int (16-bit) | 2           | 0 to 65,535                                                    |
+| int (32-bit)      | 4               | -2,147,483,648 to 2,147,483,647                                |
+| unsigned int (32-bit) | 4           | 0 to 4,294,967,295                                              |
+| long (32-bit)     | 4               | -2,147,483,648 to 2,147,483,647                                |
+| unsigned long (32-bit) | 4          | 0 to 4,294,967,295                                              |
+| long (64-bit)     | 8               | -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807       |
+| unsigned long (64-bit) | 8          | 0 to 18,446,744,073,709,551,615                                 |
+| float             | 4               | 1.2e-38 to 3.4e+38                                             |
+| double            | 8               | 2.3e-308 to 1.7e+308                                           |
+| long double       | 10 or 16        | 3.4e-4932 to 1.1e+4932                                         |
+| _Bool             | 1               | 0 to 1                                                         |
 
 #### Derived Data Types:
 Derived data types are derived from primitive data types and include pointers, arrays, structures, and unions.
