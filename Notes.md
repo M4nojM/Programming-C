@@ -1,5 +1,20 @@
-# 1) Introduction
+#  Introduction
 
+## Keywords and Indentifiers 
+
+keywords are reserved words that have a predefined meanings and cannot be used as indentifiers.
+ 
+| Keyword   | Keyword   | Keyword   | Keyword   |
+| --------- | --------- | --------- | --------- |
+| auto      | double    | int       | struct    |
+| break     | else      | long      | switch    |
+| case      | enum      | register  | typedef   |
+| char      | extern    | return    | union     |
+| const     | float     | short     | unsigned  |
+| continue  | for       | signed    | void      |
+| default   | goto      | sizeof    | volatile  |
+| do        | if        | static    | while     |
+    
 ### Escape Sequences:
 
 \n - Newline <br>
