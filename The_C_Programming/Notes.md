@@ -33,7 +33,7 @@ list of variable name.
 5) long
 6) double
 
-#### Integer(int)
+#### 1)Integer(int)
 * size of these objects are machine dependent 
 
 * #### int(16-bit System): <br> range: -32769 to +32767 <br> size: 2 bytes
