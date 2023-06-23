@@ -33,19 +33,12 @@ list of variable name.
 5) long
 6) double
 
-#### Integer(int)
-* size of these objects are machine dependent 
-
-* #### int(16-bit System): <br> range: -32769 to +32767 <br> size: 2 bytes
-
-* #### int(32-bit System): <br> range: -- to -- <br> size: 4 bytes
-
-| Data Type              | Size | Range |
-| :---------------- | :------: | ----: |
-| Integer(16-bit)        |   2    | -32769 to +32767 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
+| Data Type         | Size(in bytes)| Range             |
+| :---------------- | :------:      | :----:            |
+| int (16-bit)      |   2           | -32769 to +32767  |
+| int (32-bit)      |   4           |              |
+| float             |   4           |              |
+| double            |   8           |              |
 
 
 
