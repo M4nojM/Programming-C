@@ -1,12 +1,17 @@
 //11:20
+<br>\n<\br>
 
 # 1) Introduction
 
-Escape Sequences:
-\n - Newline
+## Escape Sequences:
+
+\n - Newline \n
 \t - Tab
+
 \b - Backspace
+
 \" - Double quote
+
 \\ - Backslash
 
 
